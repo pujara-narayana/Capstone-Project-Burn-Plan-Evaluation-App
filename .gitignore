@@ -1,0 +1,107 @@
+# Mac file finder metadata
+.DS_Store
+# Windows file metadata
+._*
+# Thumbnail image caches
+Thumbs.db
+ethumbs.db
+# MS Office temporary file
+~*
+# Emacs backup file
+*~
+# vim swap files
+.*.sw[m-p]
+
+# Common
+[Bb]in/
+[Bb]uild/
+[Oo]bj/
+[Oo]ut/
+[Tt]mp/
+[Xx]86/
+[Ii][Aa]32/
+[Xx]64/
+[Xx]86_64/
+[Xx]86-64/
+[Aa]rm
+[Aa]32
+[Tt]32
+[Aa]64
+*.tmp
+*.bak
+*.bk
+*.swp
+
+# Java files
+*.class
+javadoc/
+
+# Maven
+target/
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# JetBrains (IntelliJ IDEA, PyCharm, etc) files
+.idea/
+cmake-build-*/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse files
+.settings/
+.project
+.classpath
+.buildpath
+.loadpath
+.factorypath
+local.properties
+
+# Visual Studio / VS Code files
+.vs*/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.psess
+*.vsp
+*.vspx
